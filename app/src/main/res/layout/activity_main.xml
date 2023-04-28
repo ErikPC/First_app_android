@@ -3,6 +3,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <EditText
+        android:id="@+id/mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Escribe tu mail"
+        android:padding="16dp"
+        android:layout_below="@+id/button"/>
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
