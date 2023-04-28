@@ -9,6 +9,7 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:textSize="24sp"
+        android:textColor="@color/black"
         android:layout_centerInParent="true"/>
 
     <Button
